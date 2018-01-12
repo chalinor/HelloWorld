@@ -1,2 +1,2 @@
 # HelloWorld
-Greetings from BIT504
+Updating the description of helloworld branch
